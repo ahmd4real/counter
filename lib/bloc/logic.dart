@@ -1,21 +1,20 @@
 import 'package:bloc/bloc.dart';
-
-import 'package:counter/bloc/stateCounter.dart';
+import 'package:counter/bloc/counter_state.dart';
 
 class CounterLogic extends Cubit<CounterState>{
-  CounterLogic() : super(initC());
-  int c=0;
+  CounterLogic() : super(InitCounter());
+  int counter=0;
 
-  void pc(){
-    c++;
-    emit(pC());
+  void plus(){
+    counter++;
+    emit(PlusCounter());
   }
-  void mc(){
-    c--;
-    emit(mC());
+  void minus(){
+    counter--;
+    emit(MinusConter());
   }
-  void rc(){
-    c=0;
-    emit(rC());
+  void reset(){
+    counter=0;
+    emit(ResetCounter());
   }
 }
