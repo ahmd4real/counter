@@ -86,5 +86,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 My Email - [ahmedal011605@gmail.com]
-
 Project Link: [https://github.com/ahmd4real/counter](https://github.com/ahmd4real/counter)
