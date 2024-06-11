@@ -1,6 +1,6 @@
 # Flutter Counter App
 
-![Counter App Screenshot](screenSohts\counter.gif)
+![Counter App Screenshot](screenSohts\Screenshot_20240611-083326.png)
 
 A simple and elegant counter app built with Flutter. This app demonstrates basic state management in Flutter using the BLoC pattern with three core functionalities: increment, decrement, and reset the counter value.
 
@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+My Email - [ahmedal011605@gmail.com]
 
 Project Link: [https://github.com/ahmd4real/counter](https://github.com/ahmd4real/counter)
 
