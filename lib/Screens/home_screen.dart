@@ -16,13 +16,17 @@ class HomeScreen extends StatelessWidget {
             CounterLogic cntLogic = BlocProvider.of(context);
             return Scaffold(
               appBar: AppBar(
+                
                 backgroundColor: const Color.fromARGB(255, 53, 52, 52),
-                title: const Text(
-                  'Counter App',
-                  style: TextStyle(
-                      color: Colors.orange,
-                      fontSize: 30,
-                      fontWeight: FontWeight.bold),
+                title: const Padding(
+                  padding:  EdgeInsets.only(top: 20),
+                  child:  Text(
+                    'Counter App',
+                    style: TextStyle(
+                        color: Colors.orange,
+                        fontSize: 30,
+                        fontWeight: FontWeight.w500),
+                  ),
                 ),
                 centerTitle: true,
               ),
@@ -36,7 +40,7 @@ class HomeScreen extends StatelessWidget {
                       '${cntLogic.counter}',
                       style: const TextStyle(
                         color: Colors.white,
-                        fontSize: 128,
+                        fontSize: 150,
                       ),
                     ),
                     Row(
