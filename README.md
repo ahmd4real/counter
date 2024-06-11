@@ -1,8 +1,9 @@
 # Flutter Counter App
 
-![Counter App Screenshot](screenSohts/counter.gif)
 
 A simple and elegant counter app built with Flutter. This app demonstrates basic state management in Flutter using the `BLoC pattern` with three core functionalities: increment, decrement, and reset the counter value.
+
+![Counter App Screenshot](screenSohts/counter.gif)
 
 ## Table of Contents
 
@@ -12,10 +13,11 @@ A simple and elegant counter app built with Flutter. This app demonstrates basic
   - [Installation](#installation)
   - [Running the App](#running-the-app)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+
 
 ## Features
 
@@ -67,17 +69,6 @@ flutter run
 - Press the `-` button to decrement the counter.
 - Press the `Reset` button to reset the counter to zero.
 
-## Screenshots
-
-![Increment](path_to_increment_screenshot.png)
-*Increment the counter*
-
-![Decrement](path_to_decrement_screenshot.png)
-*Decrement the counter*
-
-![Reset](path_to_reset_screenshot.png)
-*Reset the counter*
-
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -97,7 +88,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 My Email - [ahmedal011605@gmail.com]
 
 Project Link: [https://github.com/ahmd4real/counter](https://github.com/ahmd4real/counter)
-
----
-
-Replace the placeholders with your actual data, such as paths to screenshots, your name, and your email address. This template will provide a clear and professional README for your Flutter counter app.
