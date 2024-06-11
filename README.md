@@ -1,8 +1,8 @@
 # Flutter Counter App
 
-![Counter App Screenshot](screenSohts/counter.gif)
+![Counter App Screenshot](screenSohts/)
 
-A simple and elegant counter app built with Flutter. This app demonstrates basic state management in Flutter using the BLoC pattern with three core functionalities: increment, decrement, and reset the counter value.
+A simple and elegant counter app built with Flutter. This app demonstrates basic state management in Flutter using the `BLoC pattern` with three core functionalities: increment, decrement, and reset the counter value.
 
 ## Table of Contents
 
