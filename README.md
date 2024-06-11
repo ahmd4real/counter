@@ -1,7 +1,3 @@
-Sure, here's the updated README:
-
----
-
 # Flutter Counter App
 
 ![Counter App Screenshot](screenSohts\counter.gif)
